@@ -9,12 +9,12 @@ const Header = () => {
       <Container type="content">
         <p>🦠 COVID19 Worldwide map</p>
         <ul>
-          <li>
+          {/* <li>
             <Link to="/">Map</Link>
-          </li>
-          <li>
+          </li> */}
+          {/* <li>
             <Link to="/page-2/">Page 2</Link>
-          </li>
+          </li> */}
         </ul>
       </Container>
     </header>
