@@ -112,7 +112,7 @@ const IndexPage = () => {
   return (
     <Layout pageName="home">
       <Helmet>
-        <title>Home Page</title>
+        <title>🦠 COVID-19 Map</title>
       </Helmet>
 
       <Map {...mapSettings} />
